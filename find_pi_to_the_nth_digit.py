@@ -1,3 +1,4 @@
+# This script will take an input number n and prints PI with n digits
 import math
 
 pi = math.pi
