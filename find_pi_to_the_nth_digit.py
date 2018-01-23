@@ -1,4 +1,7 @@
-# This script will take an input number n and prints PI with n digits
+"""
+This script will take an input number n and prints PI with n digits
+The number has to be smaller than or equal to 10
+"""
 import math
 
 pi = math.pi
